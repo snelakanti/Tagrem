@@ -1,6 +1,6 @@
-/* body {
-    width: 960px;
-} */
+body {
+       font-family: "Lato";
+}
 
 h1{
 
@@ -30,7 +30,8 @@ h3 {
 
 }
 
-/* #state{
+.header-content{
 
-float: left;
-} */
+    color:#333;
+    font-size: 18px;
+}

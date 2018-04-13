@@ -1,6 +1,6 @@
-body {
+/* body {
     width: 960px;
-}
+} */
 
 h1{
 
@@ -29,3 +29,8 @@ h3 {
     text-transform: capitalize;
 
 }
+
+/* #state{
+
+float: left;
+} */

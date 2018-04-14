@@ -49,3 +49,18 @@ h3 {
 .third-div{
     background-color: #f3f3f3;
 }
+
+.state{
+
+    background-color: #efefef;
+
+}
+
+button {
+
+background-color: #ffffff;
+color: #002b5a;
+font-size:14px;
+border-radius: 3px;
+box-shadow: 0 1px 3px rgba(0,0,0,0.25);
+}

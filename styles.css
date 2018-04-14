@@ -39,6 +39,7 @@ h3 {
 
 .img-width{
     background-size: cover;
+    position: relative;
 }
 
 .second-div{
@@ -83,3 +84,19 @@ box-shadow: 0 1px 3px rgba(0,0,0,0.25);
 .product-card{
     background-color: white;
 }
+
+.social {
+    position: absolute;
+    display: inline-block;
+    bottom: 0;
+    right: 200px; 
+}
+.social li {
+    display: inline-block; }
+  .social p {
+    display: inline-block;
+    color: white; }  
+
+    @media (max-width: 800px) and (orientation: portrait) {
+        .social {
+          display: none; } }

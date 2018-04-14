@@ -64,3 +64,22 @@ font-size:14px;
 border-radius: 3px;
 box-shadow: 0 1px 3px rgba(0,0,0,0.25);
 }
+
+.product-title{
+    color: #002b5a;
+    font-size: 17px;
+}
+
+.price{
+    color: #4987ca;
+    font-size: 13px;
+}
+
+.product-desc{
+    font-size: 13px;
+    color: #666666;
+}
+
+.product-card{
+    background-color: white;
+}
